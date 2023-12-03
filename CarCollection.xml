@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<carShop>
+  <ANewCar Number="AI2012HB">
+    <Name>Ford Focus</Name>
+    <Price>17000</Price>
+  </ANewCar>
+  <ANewCar Number="AH3333BK">
+    <Name>Audi TT</Name>
+    <Price>20000</Price>
+  </ANewCar>
+  <ANewCar Number="AX5033VT">
+    <Name>Toyota RAV-4</Name>
+    <Price>29500</Price>
+  </ANewCar>
+  <ANewCar Number="AA4444BB">
+    <Name>Honda Civic</Name>
+    <Price>34500</Price>
+  </ANewCar>
+</carShop>
